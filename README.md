@@ -1,7 +1,6 @@
 ### Hi there 👋
 A quick tl;dr:
 
-  - Northeastern CS '23 student 🐺
   - Web development enthusiast (SERN stack preference 😊)
   - Love tech for social good 🤝
   - Love working on a team and meeting new people 🙌
