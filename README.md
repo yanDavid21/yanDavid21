@@ -1,5 +1,5 @@
 ### Hi there 👋
-A quick tl;dr of me:
+A quick tl;dr:
 
   - Northeastern CS '23 student 🐺
   - Web development enthusiast (SERN stack preference 😊)
@@ -7,7 +7,6 @@ A quick tl;dr of me:
   - Love working on a team and meeting new people 🙌
 
 
-I’m currently working on learning new stacks and tech!  
 I’m currently learning React.JS and TypeScript.  
 Fun fact: Love to play rugby!  
 
