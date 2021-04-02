@@ -7,9 +7,9 @@ A quick tl;dr of me:
   - Love working on a team and meeting new people 🙌
 
 
-🔭 I’m currently working on learning new stacks and tech!
-🌱 I’m currently learning React.JS and TypeScript.
-⚡ Fun fact: Love to play rugby!
+🔭 I’m currently working on learning new stacks and tech!  
+🌱 I’m currently learning React.JS and TypeScript.  
+⚡ Fun fact: Love to play rugby!  
 
 <!--
 **yanDavid21/yanDavid21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
