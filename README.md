@@ -8,6 +8,7 @@ A quick tl;dr:
 
 I’m currently learning React.JS and TypeScript.  
 Fun fact: Love to play rugby!  
+CS3200 students: https://sql-hw-checker.herokuapp.com/
 
 <!--
 **yanDavid21/yanDavid21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
