@@ -6,7 +6,7 @@ A quick tl;dr:
   - Love working on a team and meeting new people 🙌
 
 
-I’m currently learning React.JS and TypeScript.  
+Currently learning: React.JS and TypeScript.  
 Fun fact: Love to play rugby!  
 CS3200 students: https://sql-hw-checker.herokuapp.com/  
 Get Song Recommendations: https://spot-a-vibe.herokuapp.com/
