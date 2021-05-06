@@ -5,7 +5,7 @@ A quick tl;dr:
   - Love tech for social good 🤝
   - Love working on a team and meeting new people 🙌
 
-Check out my current projects:
+Check out my current projects:  
 CS3200 students: https://sql-hw-checker.herokuapp.com/  
 Get Song Recommendations: https://spot-a-vibe.herokuapp.com/
 
