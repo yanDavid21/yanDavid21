@@ -6,7 +6,7 @@ A quick tl;dr:
   - Love working on a team and meeting new people 🙌
 
 Check out my current projects:  
-CS3200 students: https://sql-hw-checker.herokuapp.com/  
+CS3200 students: https://sqlitediff.herokuapp.com/  
 Get Song Recommendations: https://spot-a-vibe.herokuapp.com/
 
 Currently learning: React.JS and TypeScript.  
