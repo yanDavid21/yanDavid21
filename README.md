@@ -6,7 +6,7 @@ A quick tl;dr:
   - Love working on a team and meeting new people 🙌
 
 Check out my current projects:  
-Get Song Recommendations: https://spotavibe.david-yan.com
+Get Song Recommendations: https://spotavibe.david-yan.com  
 CS3200 students: https://sqlitediff.herokuapp.com/  
 
 Currently learning: React.JS and TypeScript.  
