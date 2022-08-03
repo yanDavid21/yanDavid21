@@ -1,9 +1,9 @@
 ### Hi there 👋
 A quick tl;dr:
 
-  - Web development enthusiast (SERN stack preference 😊)
   - Love tech for social good 🤝
   - Love working on a team and meeting new people 🙌
+  - Love applying/working in scale
 
 Check out my current projects:  
 Get Song Recommendations: https://spotavibe.david-yan.com  
