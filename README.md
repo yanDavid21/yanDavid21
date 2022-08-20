@@ -5,7 +5,7 @@ A quick tl;dr:
   - Love working on a team and meeting new people 🙌
   - Love applying/working in scale
 
-Check out my current projects:  
+Check out my currently deployed projects:  
 Get Song Recommendations: https://spotavibe.david-yan.com  
 CS3200 students: https://sqlitediff.herokuapp.com/  
 
