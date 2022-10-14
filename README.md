@@ -10,7 +10,7 @@ Get Song Recommendations: https://spotavibe.david-yan.com
 CS3200 students: https://sqlitediff.herokuapp.com/  
 
 Currently learning: Rust 🦀🦀🦀  
-Fun fact: Love to play rugby!  
+Fun fact: Love to play rugby and break dance!
 <!--
 **yanDavid21/yanDavid21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
