@@ -7,7 +7,6 @@ A quick tl;dr:
 
 Check out my currently deployed projects:  
 Get Song Recommendations: https://spotavibe.david-yan.com  
-CS3200 students: https://sqlitediff.herokuapp.com/  
 
 Currently learning: Rust 🦀🦀🦀  
 Fun fact: Love to play rugby and break dance!
