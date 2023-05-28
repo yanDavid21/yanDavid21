@@ -6,7 +6,7 @@ A quick tl;dr:
   - Love applying/working in scale
 
 Check out my currently deployed projects:  
-Get Song Recommendations: https://spotavibe.david-yan.com  
+Get Song Recommendations: http://spotavibe.david-yan.com  
 
 Currently learning: Rust 🦀🦀🦀  
 Fun fact: Love to play rugby and break dance!
